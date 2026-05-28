@@ -28,12 +28,14 @@ I believe in:
 
 <div align="center">
 
-![Cloud](https://img.shields.io/badge/Cloud-Platform-lightgrey?style=for-the-badge)
-![Containers](https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-blue?style=for-the-badge)
-![Automation](https://img.shields.io/badge/Automation-CI%2FCD-orange?style=for-the-badge)
-![IaC](https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge)
-![Monitoring](https://img.shields.io/badge/Monitoring-Observability-green?style=for-the-badge)
-![Security](https://img.shields.io/badge/Security-DevSecOps-red?style=for-the-badge)
+<img src="https://img.icons8.com/fluency/48/cloud.png" title="Cloud" />
+<img src="https://img.icons8.com/fluency/48/network.png" title="Infrastructure" />
+<img src="https://img.icons8.com/fluency/48/docker.png" title="Containers" />
+<img src="https://img.icons8.com/fluency/48/kubernetes.png" title="Orchestration" />
+<img src="https://img.icons8.com/fluency/48/gear.png" title="Automation / CI-CD" />
+<img src="https://img.icons8.com/fluency/48/combo-chart.png" title="Monitoring" />
+<img src="https://img.icons8.com/fluency/48/lock.png" title="Security" />
+<img src="https://img.icons8.com/fluency/48/source-code.png" title="Scripting" />
 
 </div>
 
