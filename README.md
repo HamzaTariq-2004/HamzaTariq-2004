@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer+in+Progress;Cloud+%26+Security+Enthusiast;AWS+%7C+Kubernetes+%7C+Terraform;Automation+Lover&center=true&width=700&height=45)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+%7C+Security+%7C+Automation;Tool+Agnostic+Approach;Building+Reliable+Delivery+Systems&center=true&width=750&height=45)](https://git.io/typing-svg)
 
 </div>
 
@@ -10,18 +10,21 @@
 
 ## 🚀 About Me
 
-Impact-driven DevOps Aspirant with strong skills in Cloud & Security.
+Impact-driven DevOps Engineer focused on building scalable, secure, and efficient software delivery systems.
 
-- ☁️ Cloud Computing
-- 🔐 Security & Automation
-- 🐳 Containerization
-- ⚙️ CI/CD Pipelines
-- 📦 Infrastructure as Code
-- 🚀 Kubernetes & GitOps
+> "DevOps is a way to deliver the software from code to end users; better, faster, cheaper & secure to increase ROI."
+
+I believe in:
+- ⚡ Automation over manual effort
+- 🔐 Security by design
+- 📦 Reliable software delivery
+- ☁️ Scalable cloud infrastructure
+- 🚀 Continuous improvement
+- 🧠 Tool-agnostic engineering mindset
 
 ---
 
-## 🛠 Tech Stack
+## 🛠 Core Skills
 
 <div align="center">
 
@@ -31,19 +34,19 @@ Impact-driven DevOps Aspirant with strong skills in Cloud & Security.
 
 ---
 
-## ⚡ DevOps Tools
+## ⚙️ Areas of Interest
 
-<div align="center">
-
-![Helm](https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white)
-
-![FluxCD](https://img.shields.io/badge/FluxCD-5468FF?style=for-the-badge&logo=flux&logoColor=white)
-
-![ArgoCD](https://img.shields.io/badge/ArgoCD-EF7B4D?style=for-the-badge&logo=argo&logoColor=white)
-
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-
-</div>
+```text
+• Cloud Infrastructure
+• DevSecOps
+• CI/CD Engineering
+• Infrastructure as Code
+• Kubernetes & Containerization
+• Monitoring & Observability
+• Platform Engineering
+• Automation & Scripting
+• Site Reliability Engineering
+```
 
 ---
 
@@ -51,11 +54,25 @@ Impact-driven DevOps Aspirant with strong skills in Cloud & Security.
 
 <div align="center">
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HamzaTariq-2004&show_icons=true&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaTariq-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaTariq-2004&layout=compact&theme=tokyonight&hide_border=true)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaTariq-2004&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
+
+---
+
+## ⚡ Engineering Principles
+
+```yaml
+principles:
+  - Automate everything possible
+  - Build secure-by-default systems
+  - Focus on reliability and scalability
+  - Prefer simplicity over complexity
+  - Measure and improve continuously
+  - Stay tool agnostic
+```
 
 ---
 
@@ -64,11 +81,11 @@ Impact-driven DevOps Aspirant with strong skills in Cloud & Security.
 <div align="center">
 
 <a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </div>
@@ -77,6 +94,6 @@ Impact-driven DevOps Aspirant with strong skills in Cloud & Security.
 
 <div align="center">
 
-### ⚡ Automating everything one pipeline at a time
+### ⚡ Engineering reliable delivery systems from code to customers
 
 </div>
