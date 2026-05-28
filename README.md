@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+%7C+Security+%7C;Tool+Agnostic+Approach;Building+Reliable+Delivery+Systems&center=true&width=750&height=45)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer+in+progress;Cloud+%7C+Security;Tool+Agnostic+Approach;Building+Reliable+Delivery+Systems&center=true&width=750&height=45)](https://git.io/typing-svg)
 
 </div>
 
@@ -28,9 +28,16 @@ I believe in:
 
 <div align="center">
 
-[![My Skills](https://skillicons.dev/icons?i=linux,git,bash,python,aws,azure,terraform,docker,kubernetes,prometheus,grafana,githubactions,vscode)](https://skillicons.dev)
+![Cloud](https://img.shields.io/badge/Cloud-Platform-lightgrey?style=for-the-badge)
+![Containers](https://img.shields.io/badge/Containers-Docker%20%7C%20Kubernetes-blue?style=for-the-badge)
+![Automation](https://img.shields.io/badge/Automation-CI%2FCD-orange?style=for-the-badge)
+![IaC](https://img.shields.io/badge/IaC-Terraform-purple?style=for-the-badge)
+![Monitoring](https://img.shields.io/badge/Monitoring-Observability-green?style=for-the-badge)
+![Security](https://img.shields.io/badge/Security-DevSecOps-red?style=for-the-badge)
 
 </div>
+
+---
 
 ---
 
