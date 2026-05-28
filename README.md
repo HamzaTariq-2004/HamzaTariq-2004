@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+%7C+Security+%7C+Automation;Tool+Agnostic+Approach;Building+Reliable+Delivery+Systems&center=true&width=750&height=45)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=DevOps+Engineer;Cloud+%7C+Security+%7C;Tool+Agnostic+Approach;Building+Reliable+Delivery+Systems&center=true&width=750&height=45)](https://git.io/typing-svg)
 
 </div>
 
@@ -44,21 +44,7 @@ I believe in:
 • Kubernetes & Containerization
 • Monitoring & Observability
 • Platform Engineering
-• Automation & Scripting
-• Site Reliability Engineering
 ```
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=HamzaTariq-2004&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HamzaTariq-2004&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
 
 ---
 
@@ -80,11 +66,11 @@ principles:
 
 <div align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://linkedin.com/hamza-tariq-73b744274/">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:hamza.tariqkwl@gmail.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
